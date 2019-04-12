@@ -1,4 +1,7 @@
 ﻿using System.Web.Mvc;
+using Microsoft.WindowsAzure.Storage;
+using Microsoft.WindowsAzure.Storage.Blob;
+
 
 namespace AdventureWorks.Web.Controllers
 {
